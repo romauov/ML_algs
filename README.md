@@ -8,3 +8,4 @@ Content:
 1. Power method for eigen value and eigen vectors
 1. Bagging and OOB
 1. Boosting with MSE
+1. Pytorch MNIST
